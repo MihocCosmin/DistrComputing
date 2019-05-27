@@ -1,0 +1,620 @@
+14:39:17,567 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+14:39:17,784 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:39:17,804 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:39:17,804 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+14:39:17,804 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:39:55,052 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+14:39:55,261 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:39:55,274 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:39:55,274 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+14:39:55,274 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:41:02,656 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+14:41:02,860 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:41:02,872 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:41:02,872 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+14:41:02,872 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:56:45,715 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/C:/Users/Cosmin/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+14:56:45,868 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+14:56:46,089 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:56:46,100 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:56:46,101 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+14:56:46,101 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:57:38,061 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/C:/Users/Cosmin/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+14:57:38,242 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+14:57:38,474 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:57:38,485 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+14:57:38,485 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+14:57:38,486 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:04:05,807 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/C:/Users/Cosmin/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+15:04:05,930 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+15:04:06,120 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:04:06,129 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:04:06,130 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+15:04:06,130 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:10:13,014 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/C:/Users/Cosmin/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+15:10:13,153 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+15:10:13,342 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:10:13,352 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:10:13,352 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+15:10:13,352 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:10:38,728 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/C:/Users/Cosmin/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+15:10:38,861 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+15:10:39,049 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:10:39,059 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:10:39,060 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+15:10:39,060 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:15:02,854 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/C:/Users/Cosmin/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+15:15:02,870 (main) ERROR [DataNucleus.Persistence] - Error : Could not find API definition for name "JDO". Perhaps you dont have the requisite datanucleus-api-XXX jar in the CLASSPATH?
+15:18:21,200 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/C:/Users/Cosmin/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+15:18:21,335 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JDO" using JRE "1.8"
+15:18:21,546 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:18:21,556 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:18:21,556 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+15:18:21,556 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:20:55,738 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/C:/Users/Cosmin/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+15:20:55,860 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+15:20:56,016 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.executeInJvm(AbstractDataNucleusMojo.java:333)
+	at org.datanucleus.maven.AbstractEnhancerMojo.enhance(AbstractEnhancerMojo.java:266)
+	at org.datanucleus.maven.AbstractEnhancerMojo.executeDataNucleusTool(AbstractEnhancerMojo.java:72)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.execute(AbstractDataNucleusMojo.java:126)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:956)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+15:20:56,026 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.executeInJvm(AbstractDataNucleusMojo.java:333)
+	at org.datanucleus.maven.AbstractEnhancerMojo.enhance(AbstractEnhancerMojo.java:266)
+	at org.datanucleus.maven.AbstractEnhancerMojo.executeDataNucleusTool(AbstractEnhancerMojo.java:72)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.execute(AbstractDataNucleusMojo.java:126)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:956)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+15:20:56,026 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+15:20:56,034 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.executeInJvm(AbstractDataNucleusMojo.java:333)
+	at org.datanucleus.maven.AbstractEnhancerMojo.enhance(AbstractEnhancerMojo.java:266)
+	at org.datanucleus.maven.AbstractEnhancerMojo.executeDataNucleusTool(AbstractEnhancerMojo.java:72)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.execute(AbstractDataNucleusMojo.java:126)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:956)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+15:22:36,095 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/C:/Users/Cosmin/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+15:22:36,208 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+15:22:36,419 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.executeInJvm(AbstractDataNucleusMojo.java:333)
+	at org.datanucleus.maven.AbstractEnhancerMojo.enhance(AbstractEnhancerMojo.java:266)
+	at org.datanucleus.maven.AbstractEnhancerMojo.executeDataNucleusTool(AbstractEnhancerMojo.java:72)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.execute(AbstractDataNucleusMojo.java:126)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:956)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+15:22:36,510 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.executeInJvm(AbstractDataNucleusMojo.java:333)
+	at org.datanucleus.maven.AbstractEnhancerMojo.enhance(AbstractEnhancerMojo.java:266)
+	at org.datanucleus.maven.AbstractEnhancerMojo.executeDataNucleusTool(AbstractEnhancerMojo.java:72)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.execute(AbstractDataNucleusMojo.java:126)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:956)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+15:22:36,511 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+15:22:36,518 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.executeInJvm(AbstractDataNucleusMojo.java:333)
+	at org.datanucleus.maven.AbstractEnhancerMojo.enhance(AbstractEnhancerMojo.java:266)
+	at org.datanucleus.maven.AbstractEnhancerMojo.executeDataNucleusTool(AbstractEnhancerMojo.java:72)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.execute(AbstractDataNucleusMojo.java:126)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:956)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+15:30:23,413 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/C:/Users/Cosmin/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+15:30:23,498 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+15:30:23,659 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.executeInJvm(AbstractDataNucleusMojo.java:333)
+	at org.datanucleus.maven.AbstractEnhancerMojo.enhance(AbstractEnhancerMojo.java:266)
+	at org.datanucleus.maven.AbstractEnhancerMojo.executeDataNucleusTool(AbstractEnhancerMojo.java:72)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.execute(AbstractDataNucleusMojo.java:126)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:956)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+15:30:23,760 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.executeInJvm(AbstractDataNucleusMojo.java:333)
+	at org.datanucleus.maven.AbstractEnhancerMojo.enhance(AbstractEnhancerMojo.java:266)
+	at org.datanucleus.maven.AbstractEnhancerMojo.executeDataNucleusTool(AbstractEnhancerMojo.java:72)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.execute(AbstractDataNucleusMojo.java:126)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:956)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+15:30:23,761 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+15:30:23,768 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.executeInJvm(AbstractDataNucleusMojo.java:333)
+	at org.datanucleus.maven.AbstractEnhancerMojo.enhance(AbstractEnhancerMojo.java:266)
+	at org.datanucleus.maven.AbstractEnhancerMojo.executeDataNucleusTool(AbstractEnhancerMojo.java:72)
+	at org.datanucleus.maven.AbstractDataNucleusMojo.execute(AbstractDataNucleusMojo.java:126)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:210)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:156)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:148)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:305)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:192)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:105)
+	at org.apache.maven.cli.MavenCli.execute(MavenCli.java:956)
+	at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:288)
+	at org.apache.maven.cli.MavenCli.main(MavenCli.java:192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)
+	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)
+15:46:02,172 (main) WARN  [DataNucleus.General] - Extension Point "org.datanucleus.implementation_creator" not registered, but plugin "org.datanucleus.enhancer" defined in file:/C:/Users/Cosmin/.m2/repository/org/datanucleus/datanucleus-enhancer/3.1.1/datanucleus-enhancer-3.1.1.jar refers to it.
+15:46:02,300 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.2.10) for API "JPA" using JRE "1.8"
+15:46:02,492 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.checkClassIsEnhanced(JDOClassEnhancer.java:493)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:361)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:46:02,503 (main) ERROR [DataNucleus.Enhancer] - Error thrown enhancing with ASMClassEnhancer
+java.lang.IllegalArgumentException
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:185)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:168)
+	at org.datanucleus.asm.ClassReader.<init>(ClassReader.java:439)
+	at org.datanucleus.enhancer.jdo.JDOClassEnhancer.enhance(JDOClassEnhancer.java:408)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhanceClass(DataNucleusEnhancer.java:949)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:540)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
+15:46:02,504 (main) INFO  [DataNucleus.Enhancer] - ERROR (PersistenceCapable) : org.gae.project.Book
+15:46:02,504 (main) ERROR [DataNucleus.Enhancer] - DataNucleus Enhancer completed with an error. Please review the enhancer log (at DEBUG level) for full details. Some classes may have been enhanced but some caused errors
+Failure during enhancement of classes - see the log for details
+org.datanucleus.exceptions.NucleusException: Failure during enhancement of classes - see the log for details
+	at org.datanucleus.enhancer.DataNucleusEnhancer.enhance(DataNucleusEnhancer.java:551)
+	at org.datanucleus.enhancer.DataNucleusEnhancer.main(DataNucleusEnhancer.java:1281)
